@@ -5,4 +5,4 @@ a collection of tools to convert DIVA Expressions to MMD
 
 in it's current state, the output requires some editing to properly convert to a VMD (adding the header information, and relocating other stuff)
 
-
+other than that, it seems to work well enough
