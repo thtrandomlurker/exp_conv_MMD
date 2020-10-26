@@ -3,6 +3,4 @@ a collection of tools to convert DIVA Expressions to MMD
 
 # WARNING
 
-in it's current state, the output requires some editing to properly convert to a VMD (adding the header information, and relocating other stuff)
-
-other than that, it seems to work well enough
+FOR THE DSC SCRIPTS, ALWAYS ASSUME THAT IT ONLY READS A TEXT FILE CONTAINING TIME COMMANDS AND THE RESPECTIVE TYPE OF ANIMATION OPCODE AS WELL AS ASSUMING IT WILL BREAK WITH EXCESS TIME COMMANDS, E.G. MOUTH ANIM ONLY READS A TEXT FILE CONTAINING EXPLICITLY TIME AND MOUTH ANIM COMMANDS, AND BREAKS WITH EXCESS TIME COMMANDS
